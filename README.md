@@ -24,7 +24,7 @@ Sortify is a native Android application developed in **Kotlin** using **Jetpack 
 1. **Clone the Repository**
 
    ```bash
-   git clone <your-repo-link>
+   git clone [https://github.com/afnancrystal/Sortify.git](https://github.com/afnancrystal/Sortify.git)
    cd Sortify
    ```
 
