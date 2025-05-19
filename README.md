@@ -6,9 +6,6 @@ Sortify is a native Android application developed in **Kotlin** using **Jetpack 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0a59be55-1382-4dd0-a23f-5b816d20dad0" width="200"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/8e159818-97a3-4882-b645-8d37ba581b91" width="200"/>
   <img src="https://github.com/user-attachments/assets/656ec648-e1b5-4d55-aa64-5ab3ea69132b" width="200"/>
   <img src="https://github.com/user-attachments/assets/87788dea-a681-441d-8063-1485d9d46a41" width="200"/>
