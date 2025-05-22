@@ -70,14 +70,10 @@ com.example.sortify/
 ## 📱 UI
 
 <p align="center">
-  <img src="![Screenshot_20250522_005802](https://github.com/user-attachments/assets/19e8979b-953c-4454-9e54-1851aebb3834)
-" width="200"/>
-  <img src="![Screenshot_20250522_005805](https://github.com/user-attachments/assets/6d403540-6387-4bdd-8c07-5af9a9f51952)
-" width="200"/>
-  <img src="![Screenshot_20250522_005810](https://github.com/user-attachments/assets/4e03b1c0-87a7-4d40-a163-faae0d005dd8)
-" width="200"/>
-  <img src=
-"![Screenshot_20250522_005814](https://github.com/user-attachments/assets/bb73e1ff-4134-44b9-8c17-d2e85fc681cf)" width="200"/>
+  <img src="https://github.com/user-attachments/assets/19e8979b-953c-4454-9e54-1851aebb3834" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6d403540-6387-4bdd-8c07-5af9a9f51952" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4e03b1c0-87a7-4d40-a163-faae0d005dd8" width="200"/>
+  <img src="https://github.com/user-attachments/assets/bb73e1ff-4134-44b9-8c17-d2e85fc681cf" width="200"/>
 </p>
 
 ---
