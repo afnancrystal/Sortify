@@ -5,7 +5,7 @@
 Sortify is a native Android application developed in **Kotlin** using **Jetpack Compose**. This project demonstrates effective data fetching, filtering, sorting, and a clean, user-friendly UI.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0ee7b9a-6b61-45ad-a3cc-b53787b7c831" width="200"/> 
+  <img src="https://github.com/user-attachments/assets/cf46c1e1-9528-4260-9cbf-77eecf2490a2" width="200"/> 
 </p>
 
 ## ✅ Features
